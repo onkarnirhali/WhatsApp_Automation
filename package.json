@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp_automation_by_onkar",
+  "version": "1.0.0",
+  "description": "created for educational purpose",
+  "main": "index.js",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.1.12",
+    "csv-parse": "^4.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onkarnirhali/WhatsApp_Automation.git"
+  },
+  "author": "Onkar Nirhali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onkarnirhali/WhatsApp_Automation/issues"
+  },
+  "homepage": "https://github.com/onkarnirhali/WhatsApp_Automation#readme"
+}
