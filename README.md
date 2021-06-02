@@ -1,6 +1,9 @@
 # WhatsApp_Automation
 This has been created for educational purpose.
 
+I DONT DO FREE / PAID TECH SUPPORT FOT THIS PROJECT. 
+IF YOU UNDERSTAND WHAT YOU ARE DOING GOOD. SO DONT EFFING DARE TO ASK FOR HELP, BECAUSE YOU MIGHT GET AUTO ARCHIVED
+
 contacts.csv => this file should have the contact that you want to blacklist
 groups.csv => this file should have the groups that you want to blacklist
 
